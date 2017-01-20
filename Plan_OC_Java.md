@@ -1,4 +1,4 @@
-OC :
+
 Votre première classe
 L'héritage
 Modéliser ses objets grâce à UML
