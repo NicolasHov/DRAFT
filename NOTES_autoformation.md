@@ -101,7 +101,7 @@ Liste défis Manu : <https://github.com/simplonco/java-initiation/edit/master/tu
 - log (plus les syso, mais écrire ds un fichier avec log4j)
 - voir serialisation et java beans (sans voir l'annotation, qu'on verra dans spring avec hibernate)
 
-inkection de dépendances :
+injection de dépendances :
 
 - s'il y a dépendance forte = ie une classe fait appel à une autre, comme la classe voiture qui est présente ds la classe proprio.
 - avec injection on passe plutôt par un fichier externe xml => était particulièrement abrupt => on utilise des annotations (l'annotation voiture par ex)
@@ -111,3 +111,8 @@ inkection de dépendances :
 spring utilise bcp les interfaces, utiliser mais créer difficile
 
 java beans -> réutilisable
+
+
+TDD : automatiser
+MAVEN Spécial Java
+Gradle non
