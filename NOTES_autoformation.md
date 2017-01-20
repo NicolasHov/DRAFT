@@ -9,6 +9,7 @@ _Ressources :_
 - jmdoudoux -> exos
 - penser java
 - OC (succint)
+- [simplon/java-training](https://github.com/NicolasHov/java-training)
 
 # 1ere semaine:
 
